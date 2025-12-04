@@ -1,0 +1,1 @@
+Hello, This repo contains the DAA project that our group was assigned. The project statement is "Cloud Task Load Balancing Using Greedy and Divide-and-conquer Algorithms".
